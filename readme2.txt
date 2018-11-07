@@ -1,0 +1,1 @@
+women man teacher student
