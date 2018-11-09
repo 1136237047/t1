@@ -1,2 +1,2 @@
 women man teacher student
-women
+women man teacher student
